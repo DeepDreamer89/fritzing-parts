@@ -18,6 +18,6 @@ The LTC3780 is a Step-Up-Step-Down power supply.
 # Part: Bourns PTL Series 20mm Slider
 The Bourns PTL are a series of slide potentiometers. The model I used for this part is the PTL20-10G0-204B2 with 20mm travel, 200kΩ and a green LED for the lever.
 
-<img src="https://github.com/DeepDreamer89/fritzing-parts/blob/main/bourns_ptl20/Bourns_ptl20_slider.jpg">
+<img width="106" height="413" src="https://github.com/DeepDreamer89/fritzing-parts/blob/main/bourns_ptl20/Bourns_ptl20_slider.jpg">
 
 [Download this part (*.fzpz)](https://github.com/DeepDreamer89/fritzing-parts/blob/main/bourns_ptl20/Bourns_PTL_Series_Slider_Poti_20mm.fzpz))
