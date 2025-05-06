@@ -20,4 +20,11 @@ The Bourns PTL are a series of slide potentiometers. The model I used for this p
 
 <img width="106" height="413" src="https://github.com/DeepDreamer89/fritzing-parts/blob/main/bourns_ptl20/Bourns_ptl20_slider.jpg">
 
-[Download this part (*.fzpz)](https://github.com/DeepDreamer89/fritzing-parts/blob/main/bourns_ptl20/Bourns_PTL_Series_Slider_Poti_20mm.fzpz))
+[Download this part (*.fzpz)](https://github.com/DeepDreamer89/fritzing-parts/blob/main/bourns_ptl20/Bourns_PTL_Series_Slider_Poti_20mm.fzpz)
+
+# Part: TPS63020
+TPS63020 is a power supply module (buck-boost) with a efficiency as high as 96%. Input voltage range is from 1.8V to 5.5V. 
+
+<img src="https://github.com/DeepDreamer89/fritzing-parts/blob/main/tps63020/TPS63020_Breadboard_preview.jpg">
+
+[Download this part (*.fzpz)](https://github.com/DeepDreamer89/fritzing-parts/blob/main/tps63020/TPS63020_power_supply_module.fzpz)
